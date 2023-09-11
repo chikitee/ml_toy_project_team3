@@ -1,5 +1,5 @@
 # Analysis_Domestic_Travel_Region_Interest
-# 국내 여행 지역 선호도 분석
+# 국내 여행 지역 선호도 분석.
 
 ## Original Data(원본 데이터)
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10<br>
